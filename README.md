@@ -1,19 +1,19 @@
-# 🌍 Wanderlust App  
+# Wanderlust App  
 
 A full-stack web application inspired by **Airbnb**, where users can explore listings, create their own stays, and leave reviews.  
 
-## 🚀 Features  
-- 🔑 **User Authentication** (Signup, Login, Logout) with Passport.js  
-- 🏠 **Create, Edit, Delete Listings** 
-- 📝 **Review System** – users can leave ratings & reviews  
-- 🔍 **Search Functionality** to find listings by keywords  
-- 📸 **Image Uploads** with Cloudinary  
-- 🛡️ **Session & Flash Messages** for a smooth UX  
-- 🎨 **Responsive UI** with Bootstrap 5  
+## Features  
+- **User Authentication** (Signup, Login, Logout) with Passport.js  
+- **Create, Edit, Delete Listings** 
+- **Review System** – users can leave ratings & reviews  
+- **Search Functionality** to find listings by keywords  
+- **Image Uploads** with Cloudinary  
+- **Session & Flash Messages** for a smooth UX  
+- **Responsive UI** with Bootstrap 5  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Frontend:** EJS, Bootstrap, CSS, JS  
 - **Backend:** Node.js, Express.js  
@@ -24,7 +24,7 @@ A full-stack web application inspired by **Airbnb**, where users can explore lis
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 
 ```
 MAJORPROJECT/
@@ -49,7 +49,7 @@ MAJORPROJECT/
 
 ---
 
-## ⚙️ Installation & Setup  
+##  Installation & Setup  
 
 1. **Clone the repo**  
    ```bash
@@ -72,12 +72,11 @@ MAJORPROJECT/
 
 ---
 
-## 📝 Future Improvements  
-- 🌐 Add Google Maps integration for location  
-- 💳 Payment Gateway (Stripe/PayPal)  
-- 📱 Mobile-first design improvements  
+## Future Improvements  
+- Add Google Maps integration for location  
+-  Payment Gateway (Stripe/PayPal)  
+-  Mobile-first design improvements  
 
 ---
-
-## 👩‍💻 Author  
+ 
 Built with ❤️ by [Varshitha D](https://github.com/varshitha-d-123)  
